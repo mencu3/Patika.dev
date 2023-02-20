@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class darieAlani {
+public class DarieAlani {
     public static void main(String[] args) {
 
         int r;

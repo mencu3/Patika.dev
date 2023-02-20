@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class kullaniciGiris {
+public class KullaniciGiris {
     public static void main(String[] args) {
         String newpass,userName,password;
         int deger;
@@ -7,7 +7,7 @@ public class kullaniciGiris {
         System.out.print("Kullanici adini giriniz:");
         userName = inp.nextLine();
 
-        System.out.print("Kullanici adini giriniz:");
+        System.out.print("şifre  giriniz:");
         password = inp.nextLine();
 
         if (userName.equals("patika") && password.equals("java123")){

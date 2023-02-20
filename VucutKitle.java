@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class vucutKitle {
+public class VucutKitle {
     public static void main(String[] args) {
         int kg;
         double endeks,boy;
