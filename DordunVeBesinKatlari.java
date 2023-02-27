@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
-public class Empty {
+public class DordunVeBesinKatlari {
     public static void main(String[] args) {
-
         int p;
         Scanner input = new Scanner(System.in);
 
